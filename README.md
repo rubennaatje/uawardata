@@ -82,5 +82,8 @@ This project is only possible because of these people and companies:
 * [Volodymyr Agafonkin](https://agafonkin.com/), an Ukrainian Software developer and founder of the framework that powers the map
 * The OSINT-Community
 
+
+
+
 ## Credits
 Made by [Henry Schlottman](https://twitter.com/HN_Schlottman) and [Simon Huwiler](https://twitter.com/simon_huwiler)
